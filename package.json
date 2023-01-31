@@ -1,0 +1,19 @@
+{
+  "name": "asp_js",
+  "version": "0.0.1",
+  "description": "A simple guide to getting started with .NET and C# and your favorite web framework.",
+  "main": "index.js",
+  "authors": {
+    "name": "Rob Conery",
+    "email": "robcon@microsoft.com"
+  },
+  "repository": "git@github.com:robconery/asp-js/asp_js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
