@@ -62,6 +62,7 @@ module.exports = {
           title: 'Advanced',
           collapsable: false,
           children: [
+            '',
             'the-spa-proxy',
           ]
         },
