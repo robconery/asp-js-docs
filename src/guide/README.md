@@ -4,7 +4,7 @@ Getting started with ASP.NET and a client application is simple, but first let's
 
 ## Required Tools
 
-You'll need to have .NET installed and you can find the installer you need [from here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). This will install the `dotnet` binary that you'll need for the next step.
+You'll need to have .NET installed and you can find the installer you need [from here]([https://dotnet.microsoft.com/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download)). This will install the `dotnet` software development kit (SDK) that you'll need for the next step.
 
 Depending on the toolset you're using, you're probably going to need Node.js installed, [which you can download](https://nodejs.org) from here.
 
@@ -16,7 +16,7 @@ We're going to use a .NET *template* to install our application, which is a prem
 
  - React using `dotnet new react`
  - Angular using `dotnet new angular`
- - Vue using `dotnet new angular`  after template installation
+ - Vue using `dotnet new vue`  after template installation
 
 We'll make more as we can, but you can also [create your own template](/advanced/templates) and publish it on NuGet if you want.
 
